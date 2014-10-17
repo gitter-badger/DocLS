@@ -4,6 +4,8 @@ DocLS
 .. image:: https://badge.waffle.io/Kaltia/DocLS.png?label=ready&title=Ready
  :target: https://waffle.io/Kaltia/DocLS
  :alt: 'Stories in Ready'
+.. image:: https://travis-ci.org/Kaltia/DocLS.svg?branch=development
+    :target: https://travis-ci.org/Kaltia/DocLS
 
 DocLS is a documentation generator for LiveScript. This implementation 
 is inspired by Docco.
