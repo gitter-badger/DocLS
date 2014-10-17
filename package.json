@@ -1,0 +1,26 @@
+{
+  "name": "docls",
+  "version": "0.0.0",
+  "description": "Documentation generator for LiveScript",
+  "main": "docls",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zoek1/docls"
+  },
+  "keywords": [
+    "documentation",
+    "generator",
+    "LiveScript"
+  ],
+  "author": "Miguel Angel Gordian",
+  "license": "GNU GPL V3",
+  "bugs": {
+    "url": "https://github.com/zoek1/docls/issues"
+  },
+  "dependencies": {
+    "LiveScript": "~1.3.0"
+  }
+}
